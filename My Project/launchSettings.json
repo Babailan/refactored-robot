@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "kanta": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
